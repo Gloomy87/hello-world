@@ -1,2 +1,2 @@
 # hello-world
-start repository
+hey. what's up?
